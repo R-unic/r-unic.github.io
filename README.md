@@ -1,4 +1,6 @@
 <html>
+    <title>Runic | Coding made fun</title>
+    <link rel="shortcut icon" type="image/png" href="favicon.png"/>
     <header>
         <h1 align="center">
             <br>
