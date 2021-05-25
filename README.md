@@ -1,10 +1,3 @@
-<div id="title">
-    <h1>Runic | Coding made fun</h1>
-    <p></p>
-    <hr>
-    <span class="credits left">Project maintained by <a href="https://github.com/AlphaRunic">AlphaRunic</a></span>
-    <span class="credits right">Hosted on GitHub Pages — Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
-</div>
 <title>Runic | Coding made fun</title>
 <link rel="shortcut icon" type="image/png" href="favicon.png"/>
 <h1 align="center">
