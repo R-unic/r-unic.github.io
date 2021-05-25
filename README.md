@@ -28,7 +28,7 @@
     </header>
     <body>
         <br><br><br>
-        <hr />
+        <hr/>
         <br><br><br>
         <h2 id="ripple" align="center">
             <strong>
@@ -52,6 +52,6 @@
                 </a>
             </li>
         </ul>
-        <br><br><hr /><br><br>
+        <br><br><hr/><br><br>
     </body>
 </html>
