@@ -2,19 +2,19 @@
     <header>
         <h1 align="center">
             <br>
-            <strong style="font-family: Lucida Console;">
+            <strong style="font-family: Verdana;">
             Runic
             </strong>
             <br>
         </h1>
         <h2 align="center">
-            <a style="font-family: Fantasy;" href="#ripple">Ripple</a>
+            <a style="font-family: Verdana;" href="#ripple">Ripple</a>
             •
-            <a style="font-family: Fantasy;"  href="#carbon">Carbon</a>
+            <a style="font-family: Verdana;"  href="#carbon">Carbon</a>
             •
-            <a style="font-family: Fantasy;"  href="#vitae">Vitae</a>
+            <a style="font-family: Verdana;"  href="#vitae">Vitae</a>
             •
-            <a style="font-family: Fantasy;"  href="#opal">Opal</a>
+            <a style="font-family: Verdana;"  href="#opal">Opal</a>
         </h2>
         <h3 align="center">
             <br>
@@ -24,29 +24,32 @@
             <br>
         </h3>
     </header>
-    <main>
-        <br><br><hr><br>
-        <div>
-            <br>
-            <h2 id="ripple" align="center">
-                <b>Ripple</b>
-            </h1>
-            <blockquote>
-            Ripple is an open-source all-purpose Discord bot built with TypeScript. Ripple’s source code also may serve as a framework to your own Discord bot!
-            </blockquote>
-            <ul align="center">
-                <li>
-                    <a title="github.io Website" href="https://alpharunic.github.io/Ripple" target="_blank">
-                    github.io/Ripple
-                    </a>
-                </li>
-                <li>
-                    <a title="Repository" href="https://github.com/AlphaRunic/Ripple" target="_blank">
-                    AlphaRunic/Ripple
-                    </a>
-                </li>
-            </ul>
-            <br>
-        </div>
-    </main>
+    <body>
+        <br><br><br>
+        <hr />
+        <br><br><br>
+        <h2 id="ripple" align="center">
+            <strong>
+            Ripple
+            </strong>
+        </h1>
+        <blockquote align="center">
+            <i>
+            Ripple is an open source all-purpose Discord bot built with TypeScript. Ripple’s source code also may serve as a framework to your own Discord bot!
+            </i>
+        </blockquote>
+        <ul align="center">
+            <li>
+                <a title="github.io Website" href="https://alpharunic.github.io/Ripple" target="_blank">
+                github.io/Ripple
+                </a>
+            </li>
+            <li>
+                <a title="Repository" href="https://github.com/AlphaRunic/Ripple" target="_blank">
+                AlphaRunic/Ripple
+                </a>
+            </li>
+        </ul>
+        <br><br><hr /><br><br>
+    </body>
 </html>
