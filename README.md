@@ -23,7 +23,7 @@
     </i>
     <br>
 </h3>
-<hr/>
+<hr>
 <br><br><br>
 <h2 id="ripple" align="center">
     <strong>
@@ -40,7 +40,7 @@
     </i>
 </blockquote>
 <br><br>
-<hr/>
+<hr>
 <br><br><br>
 <h2 id="carbon" align="center">
     <strong>
@@ -56,7 +56,7 @@
         <a title="Create a game repository using Carbon" href="https://github.com/AlphaRunic/Carbon/generate">Create a game with Carbon</a>
     </i>
 </blockquote>
-<br><br><hr/>
+<br><br><hr>
 <br><br><br>
 <h2 id="carbon" align="center">
     <strong>
@@ -70,7 +70,7 @@
     Vitae is a statically typed high-level compiler designed primarily for ease of use and object orientation. Hand crafted in C#, it's cross platform and runs at the speed of C#.
     </i>
 </blockquote>
-<br><br><hr/>
+<br><br><hr>
 <br><br><br>
 <h2 id="carbon" align="center">
     <strong>
