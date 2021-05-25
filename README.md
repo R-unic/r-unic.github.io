@@ -1,7 +1,7 @@
+<title>Runic | Coding made fun</title>
+<link rel="shortcut icon" type="image/png" href="favicon.png"/>
 <html>
-    <title>Runic | Coding made fun</title>
-    <link rel="shortcut icon" type="image/png" href="favicon.png"/>
-    <header>
+    <body>
         <h1 align="center">
             <br>
             <strong style="font-family: Verdana;">
@@ -14,9 +14,9 @@
             •
             <a style="font-family: Verdana;"  href="#carbon">Carbon</a>
             •
-            <a style="font-family: Verdana;"  href="#vitae">Vitae</a>
+            <a style="font-family: Verdana;" href="#vitae">Vitae</a>
             •
-            <a style="font-family: Verdana;"  href="#opal">Opal</a>
+            <a style="font-family: Verdana;" href="#opal">Opal</a>
         </h3>
         <h3 align="center">
             <br>
@@ -25,8 +25,6 @@
             </i>
             <br>
         </h3>
-    </header>
-    <body>
         <br><br><br>
         <hr/>
         <br><br><br>
