@@ -32,7 +32,7 @@
             <strong>
             Ripple
             </strong>
-        </h1>
+        </h2>
         <blockquote align="center">
             <i>
             Ripple is an open source all-purpose Discord bot built with TypeScript. Ripple’s source code also may serve as a framework to your own Discord bot!
