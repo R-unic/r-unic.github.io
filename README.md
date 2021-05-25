@@ -27,7 +27,7 @@
 <br><br><br>
 <h2 id="ripple" align="center">
     <strong>
-        <a title="Ripple" href="https://alpharunic.github.io/Ripple">
+        <a title="Ripple" href="https://alpharunic.github.io/Ripple" target="_blank">
         Ripple
         </a>
     </strong>
@@ -36,7 +36,7 @@
     <i>
     Ripple is an open source all-purpose Discord bot built with TypeScript. Ripple’s source code also may serve as a framework to your own Discord bot! Ripple by all means will supercede my old Discord bot project, Opal.
     <br>
-    <a title="Invite Ripple" href="https://bit.ly/2SjjB3d">Invite link</a>
+    <a title="Invite Ripple" href="https://bit.ly/2SjjB3d" target="_blank">Invite link</a>
     </i>
 </blockquote>
 <br><br>
@@ -44,7 +44,7 @@
 <br><br><br>
 <h2 id="carbon" align="center">
     <strong>
-        <a title="Carbon" href="https://github.com/AlphaRunic/Carbon">
+        <a title="Carbon" href="https://github.com/AlphaRunic/Carbon" target="_blank">
         Carbon
         </a>
     </strong>
@@ -53,14 +53,14 @@
     <i>
     Carbon is a powerful framework for Roblox TypeScript. It provides a client event-emitter for cross-script client communication. Carbon comes with Net, a multi-language Roblox networking library for bridging the server-client boundary seamlessly. Carbon also comes with many built in classes to make Roblox coding easier. Another big highlight of Carbon is it's component system. Organize your game into a set of components that are executed at your will.
         <br>
-        <a title="Create a game repository using Carbon" href="https://github.com/AlphaRunic/Carbon/generate">Create a game with Carbon</a>
+        <a title="Create a game repository using Carbon" href="https://github.com/AlphaRunic/Carbon/generate" target="_blank">Create a game with Carbon</a>
     </i>
 </blockquote>
 <br><br><hr>
 <br><br><br>
 <h2 id="carbon" align="center">
     <strong>
-        <a title="Vitae" href="https://github.com/AlphaRunic/Vitae">
+        <a title="Vitae" href="https://github.com/AlphaRunic/Vitae" target="_blank">
         Vitae
         </a>
     </strong>
@@ -74,7 +74,7 @@
 <br><br><br>
 <h2 id="carbon" align="center">
     <strong>
-        <a title="Opal" href="https://github.com/AlphaRunic/Opal-Discord.js">
+        <a title="Opal" href="https://github.com/AlphaRunic/Opal-Discord.js" target="_blank">
         Opal
         </a>
     </strong>
@@ -83,6 +83,6 @@
     <i>
     Opal is an extensive all-purpose bot built with Discord.js. Opal has 150+ commands and is highly customizable. With features like marriage, adoption, economy, levels, and more, you always have something to do. This was one of my earlier projects, so I never used a command framework like discord.js-commando.
         <br>
-        <a title="Invite Opal" href="https://discordapp.com/oauth2/authorize?client_id=724467880724267008&scope=bot&permissions=8">Invite link</a>
+        <a title="Invite Opal" href="https://discordapp.com/oauth2/authorize?client_id=724467880724267008&scope=bot&permissions=8" target="_blank">Invite link</a>
     </i>
 </blockquote>
