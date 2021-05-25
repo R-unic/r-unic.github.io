@@ -9,7 +9,7 @@
             </strong>
             <br>
         </h1>
-        <h2 align="center">
+        <h3 align="center">
             <a style="font-family: Verdana;" href="#ripple">Ripple</a>
             •
             <a style="font-family: Verdana;"  href="#carbon">Carbon</a>
