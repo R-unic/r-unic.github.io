@@ -17,7 +17,7 @@
             <a style="font-family: Verdana;"  href="#vitae">Vitae</a>
             •
             <a style="font-family: Verdana;"  href="#opal">Opal</a>
-        </h2>
+        </h3>
         <h3 align="center">
             <br>
             <i>
