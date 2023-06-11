@@ -1,88 +1,92 @@
 <title>Runic | Coding made fun</title>
 <link rel="shortcut icon" type="image/png" href="favicon.png"/>
 <h1 align="center">
-    <br>
-    <strong style="font-family: Verdana;">
+    <br/>
+    <strong>
     Runic
     </strong>
-    <br>
+    <br/>
 </h1>
 <h3 align="center">
-    <a style="font-family: Verdana;" href="#ripple">Ripple</a>
+    <a href="#cosmo">Cosmo</a>
     •
-    <a style="font-family: Verdana;"  href="#carbon">Carbon</a>
+    <a href="#wiz-wiki-api">Wizard101 Wiki API</a>
     •
-    <a style="font-family: Verdana;" href="#vitae">Vitae</a>
+    <a href="#luay">Luay</a>
     •
-    <a style="font-family: Verdana;" href="#opal">Opal</a>
+    <a href="#roblox-cr">roblox-cr</a>
+</h3>
+<h2 align="center">
+    <br/>
+    <b>
+    Hey! 👋
+    </b>
+    <br/>
 </h3>
 <h3 align="center">
-    <br>
+    <br/>
     <i>
-    Coder from Oregon born in 2004. My favorite languages include TypeScript, JavaScript, C#, Lua, and Ruby. I like making Discord bots and Roblox games with TS.
+    I'm Runic, a self-taught American developer. I created the <a href="https://github.com/cosmo-lang/cosmo">Cosmo programming language</a>, and I also own <a href="https://github.com/Paragon-Studios">Paragon Studios</a>.
     </i>
-    <br>
+    <br/>
 </h3>
 <hr>
-<br><br><br>
-<h2 id="ripple" align="center">
+<br/><br/><br/>
+<h2 id="cosmo" align="center">
     <strong>
-        <a title="Ripple" href="https://alpharunic.github.io/Ripple" target="_blank">
-        Ripple
+        <a title="Cosmo" href="https://github.com/cosmo-lang/repositories" target="_blank">
+        Cosmo
         </a>
     </strong>
 </h2>
 <blockquote align="center">
     <i>
-    Ripple is an open source all-purpose Discord bot built with TypeScript. Ripple’s source code also may serve as a framework to your own Discord bot! Ripple by all means will supercede my old Discord bot project, Opal.
-    <br>
-    <a title="Invite Ripple" href="https://bit.ly/2SjjB3d" target="_blank">Invite link</a>
+    Cosmo is an open-source, statically-typed, interpreted programming language. It's in its very early stages of development, and there is still much to fix and improve. Since it's an open-source project, you can contribute or suggest any changes to Cosmo yourself!
+    <br/>
     </i>
 </blockquote>
-<br><br>
+<br/><br/>
 <hr>
-<br><br><br>
-<h2 id="carbon" align="center">
+<br/><br/><br/>
+<h2 id="wiz-wiki-api" align="center">
     <strong>
-        <a title="Carbon" href="https://github.com/AlphaRunic/Carbon" target="_blank">
-        Carbon
+        <a title="Wizard101 Wiki API" href="https://github.com/R-unic/WizWikiAPI" target="_blank">
+        Wizard101 Wiki API
         </a>
     </strong>
 </h2>
 <blockquote align="center">
     <i>
-    Carbon is a powerful framework for Roblox TypeScript. It provides a client event-emitter for cross-script client communication. Carbon comes with Net, a multi-language Roblox networking library for bridging the server-client boundary seamlessly. Carbon also comes with many built in classes to make Roblox coding easier. Another big highlight of Carbon is it's component system. Organize your game into a set of components that are executed at your will.
-        <br>
-        <a title="Create a game repository using Carbon" href="https://github.com/AlphaRunic/Carbon/generate" target="_blank">Create a game with Carbon</a>
+    The Wizard101 Wiki API is an API wrapper around the <a title="Wizard101 Central" href="http://wizard101central.com" target="_blank">official Wizard101 Wiki</a>. This Wiki API allows you to very easily access any data about Wizard101. Not all Wiki endpoints are currently supported (namely housing items and castles), but you can contribute them yourself if you'd like.
+    <br/>
     </i>
 </blockquote>
-<br><br><hr>
-<br><br><br>
-<h2 id="carbon" align="center">
+<br/><br/><hr>
+<br/><br/><br/>
+<h2 id="luay" align="center">
     <strong>
-        <a title="Vitae" href="https://github.com/AlphaRunic/Vitae" target="_blank">
-        Vitae
+        <a title="Luay" href="https://github.com/R-unic/Luay" target="_blank">
+        Luay
         </a>
     </strong>
 </h2>
 <blockquote align="center">
     <i>
-    Vitae is a statically typed high-level compiler designed primarily for ease of use and object orientation. Hand crafted in C#, it's cross platform and runs at the speed of C#.
+    Luay is an extended version of the Lua programming language. It is not a superset, as no grammar has been changed. It does however include "batteries included", providing lots of utility out of the box. This utility includes overloaded string operators, libraries (like Java's <code>StringBuilder</code> or Node's <code>EventEmitter</code>), a main function, OOP helpers, lambda expressions, and more.
     </i>
 </blockquote>
-<br><br><hr>
-<br><br><br>
-<h2 id="carbon" align="center">
+<br/><br/><hr>
+<br/><br/><br/>
+<h2 id="roblox-cr" align="center">
     <strong>
-        <a title="Opal" href="https://github.com/AlphaRunic/Opal-Discord.js" target="_blank">
-        Opal
+        <a title="roblox-cr" href="https://github.com/R-unic/roblox-cr" target="_blank">
+        roblox-cr
         </a>
     </strong>
 </h2>
 <blockquote align="center">
     <i>
-    Opal is an extensive all-purpose bot built with Discord.js. Opal has 150+ commands and is highly customizable. With features like marriage, adoption, economy, levels, and more, you always have something to do. This was one of my earlier projects, so I never used a command framework like discord.js-commando.
-        <br>
-        <a title="Invite Opal" href="https://discordapp.com/oauth2/authorize?client_id=724467880724267008&scope=bot&permissions=8" target="_blank">Invite link</a>
+    Roblox Crystal (roblox-cr) is a Crystal to Luau source-to-source compiler. It converts code from the <a title="Crystal" href="https://crystal-lang.org" target="_blank">Crystal programming language</a> to Roblox's <a title="Crystal" href="https://luau-lang.org" target="_blank">Luau language</a>. It also comes with a Crystal type generator, which accesses the Roblox API documentation and automatically generates Crystal type definitions for each object.
+    <br/>
     </i>
 </blockquote>
