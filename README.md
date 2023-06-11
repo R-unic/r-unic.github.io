@@ -22,7 +22,7 @@
     Hey! 👋
     </b>
     <br/>
-</h3>
+</h2>
 <h3 align="center">
     <br/>
     <i>
